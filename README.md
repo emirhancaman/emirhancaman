@@ -18,9 +18,23 @@
 
 ---
 
+### Tools & Technologies  
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+
+---
+
 ## 🚀 Projects & Highlights
 
 - 🌦 **NovaPulse** → Weather forecasting system using NASA + ML models
 
 ---
+
+##  Contacts
+
+📧 **Email:** [emirhanbcaman@gmail.com](mailto:emirhanbcaman@gmail.com)  
+💼 **LinkedIn:** [Emirhan Berkay Çaman](https://www.linkedin.com/in/emirhan-berkay-caman-33ab98388)  
+
+---
+
 
