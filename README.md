@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Emirhan !
 
-<!--
-**emirhancaman/emirhancaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+💻 I love building applications that connect creativity with real-world logic.  
+📊 Exploring **data analysis**, **machine learning**, and **weather forecasting (NovaPulse)**.  
+🎮 Passionate about creating games, APIs, and systems that solve real problems.  
+🎓 Computer Engineering student at **Kırıkkale University*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Programming Languages  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 🚀 Projects & Highlights
+
+- 🌦 **NovaPulse** → Weather forecasting system using NASA + ML models
+
+---
+
