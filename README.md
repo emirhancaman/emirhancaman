@@ -33,7 +33,7 @@
 ##  Contacts
 
 📧 **Email:** [emirhanbcaman@gmail.com](mailto:emirhanbcaman@gmail.com)  
-💼 **LinkedIn:** [Emirhan Berkay Çaman](https://www.linkedin.com/in/emirhan-berkay-caman-33ab98388)  
+💼 **LinkedIn:** [Emirhan Berkay Caman](https://www.linkedin.com/in/emirhan-berkay-caman-33ab98388)  
 
 ---
 
