@@ -38,9 +38,11 @@ My interests include **mobile app development, UI design, data analysis, machine
 - 📡 **Nyquix**  
   An **ED/ET tool** project focused on signal-related analysis, monitoring, and technical problem-solving.
 
+- 🌱 **Timety
+  Timety is a simple and practical schedule management app for organizing and tracking daily or weekly plans.
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Dart & Kotlin for mobile development
 - Data analysis workflows
 - UI design principles
